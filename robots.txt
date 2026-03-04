@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationsantarosa.com/sitemap.xml
